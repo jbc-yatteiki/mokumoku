@@ -21,3 +21,5 @@
   - https://scrapbox.io/j28i/HTTP_Artifact_バインディング
 - [RubyKaigi2019](https://rubykaigi.org/2019)の予習
   - https://scrapbox.io/tanaken0515/RubyKaigi2019予習
+- 気持ちが続かなかったらRailsでなんか作るかもしれない
+  - 何もないRailsアプリケーションをHerokuにupした https://limitless-thicket-97023.herokuapp.com/
