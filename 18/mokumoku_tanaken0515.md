@@ -16,5 +16,6 @@
 
 ### 今日やったこと
 
-- あとで
-
+- 情報処理安全確保支援士の勉強
+ - https://scrapbox.io/j28i/SAML
+ - https://scrapbox.io/j28i/HTTP_Artifact_バインディング
