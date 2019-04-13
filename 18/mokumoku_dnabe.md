@@ -17,6 +17,6 @@ SVM（サポートベクターマシン）に入門しました。
 
 SVMとは、比較的少ない計算量で、非線形分類を行うためのアルゴリズムです。
 
-![SVM completed](https://raw.github.com/wiki/jbc-yatteiki/mokumoku/18/assets/nabe_ML_completed.png)
+![SVM completed](https://raw.github.com/jbc-yatteiki/mokumoku/18/assets/nabe_ML_completed.png)
 
-![SVM example](https://raw.github.com/wiki/jbc-yatteiki/mokumoku/18/assets/nabe_ML_exam.png)
+![SVM example](https://raw.github.com/jbc-yatteiki/mokumoku/18/assets/nabe_ML_exam.png)
