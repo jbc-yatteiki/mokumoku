@@ -17,5 +17,7 @@
 ### 今日やったこと
 
 - 情報処理安全確保支援士の勉強
- - https://scrapbox.io/j28i/SAML
- - https://scrapbox.io/j28i/HTTP_Artifact_バインディング
+  - https://scrapbox.io/j28i/SAML
+  - https://scrapbox.io/j28i/HTTP_Artifact_バインディング
+- [RubyKaigi2019](https://rubykaigi.org/2019)の予習
+  - https://scrapbox.io/tanaken0515/RubyKaigi2019予習
